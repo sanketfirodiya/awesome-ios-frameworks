@@ -1,5 +1,6 @@
 # awesome-ios-frameworks
-Awesome list of the best iOS frameworks, libraries, platforms and tools by 3rd party developers.
+Awesome list of the best mobile frameworks and platforms by 3rd party developers.
+
 1. [Parse](https://parse.com) - Backend as a service
 ---
 
@@ -31,4 +32,5 @@ PacketZoom offers a protocol based technology service - designed specifically fo
 
 PaintCode instantly generates Objective-C, Swift or C# code from your drawings.
 
-
+## Contact
+For more awesome stuff, you should follow me on twitter [@SanketFirodiya](https://twitter.com/sanketfirodiya) :)
