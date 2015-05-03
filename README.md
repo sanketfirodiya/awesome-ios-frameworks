@@ -1,5 +1,5 @@
-# awesome-ios-frameworks
-Awesome list of the best mobile frameworks and platforms by 3rd party developers.
+# Awesome iOS frameworks
+Awesome list of frameworks and services that make life simpler for iOS developers.
 
 1. [Parse](https://parse.com) - Backend as a service
 ---
